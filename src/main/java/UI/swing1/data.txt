@@ -1,0 +1,13 @@
+White
+Black
+Blue
+Cyan
+Dark Gray
+Gray
+Green
+Red
+Rose
+Pink
+Orange
+Yellow
+Rainbow 
